@@ -1,0 +1,9 @@
+{
+  "name": "csnode-jstemplate",
+  "version": "0.0.0",
+  "description": "CSNodeJSTemplate",
+  "main": "server.js",
+  "author": {
+    "name": "work"
+  }
+}
